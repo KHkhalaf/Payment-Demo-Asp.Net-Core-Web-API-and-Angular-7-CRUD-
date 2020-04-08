@@ -1,0 +1,44 @@
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\hp\Desktop\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+D:\Angulars Projects\Payment-Demo-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
